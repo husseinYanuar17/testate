@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Haliaetus vocifer","category":"Goldenrod"},
+{"id":2,"name":"Bubalornis niger","category":"Crimson"},
+{"id":3,"name":"Physignathus cocincinus","category":"Blue"},
+{"id":4,"name":"Trichoglossus chlorolepidotus","category":"Orange"},
+{"id":5,"name":"Chlidonias leucopterus","category":"Khaki"},
+{"id":6,"name":"Megaderma spasma","category":"Mauv"},
+{"id":7,"name":"Picoides pubescens","category":"Maroon"},
+{"id":8,"name":"Egretta thula","category":"Indigo"},
+{"id":9,"name":"Libellula quadrimaculata","category":"Turquoise"},
+{"id":10,"name":"Numida meleagris","category":"Indigo"},
+{"id":11,"name":"Didelphis virginiana","category":"Violet"},
+{"id":12,"name":"Ciconia episcopus","category":"Orange"},
+{"id":13,"name":"Dicrostonyx groenlandicus","category":"Pink"},
+{"id":14,"name":"Lasiodora parahybana","category":"Purple"},
+{"id":15,"name":"Coluber constrictor","category":"Mauv"},
+{"id":16,"name":"Cacatua tenuirostris","category":"Aquamarine"},
+{"id":17,"name":"Tamiasciurus hudsonicus","category":"Pink"},
+{"id":18,"name":"Plegadis falcinellus","category":"Red"},
+{"id":19,"name":"Ictonyx striatus","category":"Fuscia"},
+{"id":20,"name":"Vulpes cinereoargenteus","category":"Goldenrod"}
+]
+}
